@@ -1,2 +1,3 @@
 # Repositorio1
-Este es un repositorio de prueba del modulo 2 de Henry
+Este archivo es una prueba de como clonar un repositorio a mi escritorio
+
